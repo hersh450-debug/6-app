@@ -1,0 +1,40 @@
+1. The Practical Choice (Best for specific weather conditions)
+2. The Stylish Choice (Fashion-forward but weather appropriate)
+3. The Comfortable Choice (Cozy and relaxed)
+
+Include specific advice for HEADWEAR (hats, beanies, sunglasses, etc.) for each option.
+
+CRITICAL OUTPUT FORMAT:
+Do not use Markdown formatting. Use the exact delimiters below.
+
+[WEATHER_CONDITION]
+<One single word strictly from this list: Sunny, Cloudy, Rainy, Snowy, Stormy, Windy, Clear, Foggy>
+[END_CONDITION]
+
+[WEATHER_SUMMARY]
+<Provide a concise weather summary here (Temp, Conditions, etc.)>
+[END_WEATHER]
+
+[OPTION_1]
+Title: <Short Title>
+Headwear: <Specific headwear recommendation>
+Pieces: <Comma separated list of 3-6 key clothing items, e.g. Trench Coat, Leather Boots, Wool Scarf, Cashmere Sweater>
+Summary: <Brief 1-2 sentence explanation of why this outfit works for the weather>
+Visual: <A prompt for a full body fashion photo of this outfit including headwear, photorealistic, cinematic lighting>
+[END_OPTION]
+
+[OPTION_2]
+Title: <Short Title>
+Headwear: <Specific headwear recommendation>
+Pieces: <Comma separated list of items>
+Summary: <Brief explanation>
+Visual: <Full body fashion photo prompt including headwear...>
+[END_OPTION]
+
+[OPTION_3]
+Title: <Short Title>
+Headwear: <Specific headwear recommendation>
+Pieces: <Comma separated list of items>
+Summary: <Brief explanation>
+Visual: <Full body fashion photo prompt including headwear...>
+[END_OPTION]
